@@ -1,6 +1,7 @@
 # Angular-Reddit-like 
 A little test application of angular 5 akin to Reddit , that allows you to
 add a post with a link and vote on that post , the order of the posts are based on the likes  
+![alt app](./image/app.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.1.
 
